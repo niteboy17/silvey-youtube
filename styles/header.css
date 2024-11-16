@@ -48,8 +48,7 @@
     cursor: pointer;
 }
 .silvertube{
-    display: flex;
-    align-items: center;
+    margin-top: 1px;
     justify-content: space-between;
     cursor: pointer;
 }
